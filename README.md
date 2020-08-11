@@ -22,3 +22,4 @@
 
 [![](https://img.shields.io/github/followers/timurgaleev.svg?label=GitHub&style=social)](https://github.com/timurgaleev)
 [![](https://komarev.com/ghpvc/?username=timurgaleev)](https://komarev.com/ghpvc/?username=timurgaleev)
+[![](http://hits.dwyl.com/deut-erium/deut-erium.svg)](http://hits.dwyl.com/deut-erium/deut-erium)
