@@ -13,7 +13,7 @@
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-### I am Timur Galeev
+### Hi there, I'm Timur Galeev
 - DevOps/SRE & Open Source enthusiast.
 - AWS Certified
 ## 
