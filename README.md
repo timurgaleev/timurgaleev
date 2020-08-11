@@ -15,7 +15,7 @@
 
 ### I am Timur Galeev
 - An DevOps/SRE & Open Source enthusiast.
-- AWS Specialist
+- AWS Certified
 ## Find me around the WWW🌎:
 
 <p align="center"> 
