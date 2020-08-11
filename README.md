@@ -20,5 +20,7 @@
 
 <p align="center"> 
 
+[![](https://img.shields.io/github/followers/timurgaleev.svg?label=GitHub&style=social)](https://github.com/timurgaleev)
+[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:ashrafkm010@gmail.com)
 
 <a href="https://github.com/timurgaleev"><img src="https://img.shields.io/github/followers/timurgaleev.svg?label=GitHub&style=social" alt="GitHub"></a> <p align="left"> <img src="https://komarev.com/ghpvc/?username=timurgaleev" alt="timurgaleev" /> </p>
