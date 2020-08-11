@@ -22,4 +22,4 @@
 
 
 - Contributing on: <a href="https://github.com/timurgaleev"><img src="https://img.shields.io/github/followers/timurgaleev.svg?label=GitHub&style=social" alt="GitHub"></a>
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=timurgaleev" alt="timurgaleev" /> </p>
+- Views <p align="left"> <img src="https://komarev.com/ghpvc/?username=timurgaleev" alt="timurgaleev" /> </p>
