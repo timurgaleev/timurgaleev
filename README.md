@@ -15,3 +15,9 @@
 
 ### I am Timur Galeev
 - An DevOps/SRE & Open Source enthusiast.
+## Find me around the WWW🌎:
+
+<p align="center"> 
+
+
+- Contributing on: <a href="https://github.com/timurgaleev"><img src="https://img.shields.io/github/followers/timurgaleev.svg?label=GitHub&style=social" alt="GitHub"></a>
