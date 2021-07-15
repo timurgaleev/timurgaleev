@@ -15,6 +15,7 @@
 
 ### Hi there, I'm Timur Galeev
 - DevOps/MLOps
+- Senior Cloud Architect
 - Open Source enthusiast
 - Constant learner
 - AWS Certified
