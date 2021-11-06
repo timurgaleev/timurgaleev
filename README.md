@@ -14,7 +14,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### Hi there, I'm Timur Galeev
-- Senior Cloud Architect
+- Cloud Architect
 - DevOps/MLOps
 - Open Source enthusiast
 - Constant learner
