@@ -15,6 +15,7 @@
 
 ### Hi there, I'm Timur Galeev
 - Cloud Architect
+- AWS Community Builder
 - DevOps/MLOps
 - Open Source enthusiast
 - Constant learner
