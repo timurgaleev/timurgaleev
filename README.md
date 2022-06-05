@@ -1,4 +1,4 @@
-## HELLO WORLD!👋
+## Hi there, I'm Timur Galeev👋
 
 
 <a href="https://www.linkedin.com/in/timur-galeev/">
@@ -16,7 +16,6 @@
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-### Hi there, I'm Timur Galeev
 - Cloud Architect
 - AWS Community Builder
 - DevOps/MLOps
