@@ -1,4 +1,4 @@
-## HELLO WORLD! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="10px">
+## HELLO WORLD!👋
 
 
 <a href="https://www.linkedin.com/in/timur-galeev/">
