@@ -10,6 +10,9 @@
 <a href="https://t.me/GaleevTimur">
   <img align="left" alt="Timur's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
+<a href="https://twitter.com/galeev_tim">
+  <img align="left" alt="Timur's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
